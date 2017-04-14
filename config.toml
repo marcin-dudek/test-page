@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://marcin-dudek.github.io/test-page/"
 languageCode = "en-us"
 title = "Stapler"
 theme = "hugo-theme-air"
